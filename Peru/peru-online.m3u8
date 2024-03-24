@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 ,+ Canal Test
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png",Latina
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b13420129806166577abb1842ec&ndvc=0&sid=ba5t1l1xb29729758826577abb1d84d7
+#EXTINF:-1 group-title="Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",Exitosa TV
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",TVPeru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png",Agro TV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png",TVPe Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png",TVPe Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/1200?cb=20190308214115",Karibeña TV
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 group-title="Peru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png",Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Las_Estrellas_2016.png",Canal Estrellas
+http://38.43.140.97:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png",Discovery Kids
+http://38.43.140.97:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cgtn_cn_espanol.webp",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Deutsche_W_2012.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Movistar_Deportes.png",Movistar Deportes
+http://38.43.140.97:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png",GolPeru
+http://38.43.140.97:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/GolTVLatam-2008.webp",Gol TV
+http://38.43.140.97:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png",ESPN
+http://38.43.140.97:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_1_Logo.png",Fox Sports 1
+http://38.43.140.97:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp",TNT Sports
+http://38.43.140.97:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/WinSports2022.webp",Win Sports
+http://38.43.140.97:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/WinSports2022.webp",Win Sports +
+http://38.43.140.97:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp",History Channel
+http://38.43.140.97:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History2_logo.png",History 2
+http://38.43.140.97:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/National_Geographic_Society.webp",National Geographic
+http://38.43.140.97:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png",Animal Planet
+http://38.43.140.97:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png",Discovery Channel
+http://38.43.140.97:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png",Star Channel
+http://38.43.140.97:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Warner_2018.webp",Warner
+http://38.43.140.97:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Space_2008.png",Space
+http://38.43.140.97:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Studio_Universal_2016.png",Studio Universal
+http://38.43.140.97:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png",Cinecanal
+http://38.43.140.97:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png",Paramount Channel
+http://38.43.140.97:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png",Sony
+http://38.43.140.97:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png",DHE
+http://38.43.140.97:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp",TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png",HBO
+http://38.43.140.97:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png",HBO 2
+http://38.43.140.97:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Family.png",HBO Family
+http://38.43.140.97:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Logohboplus2019.png",HBO Plus
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png",HBO Xtreme
+http://38.43.140.97:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_TV_logo.png",Universal
+http://38.43.140.97:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/E_2012_logo.webp",E! Entertainment
+http://38.43.140.97:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png",Zona Music 2
+http://38.43.140.97:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RBTV_Logo_single_pix_hor_RGB.webp",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
