@@ -91,3 +91,7 @@ http://38.43.140.97:8000/play/a00r/index.m3u8
 http://38.43.140.97:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RBTV_Logo_single_pix_hor_RGB.webp",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2022.webp",Directv Sports
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170111.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp",Directv Sports 2
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170112.ts
