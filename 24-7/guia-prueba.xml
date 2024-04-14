@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="JackieChan-24-7">
+        <name>JackieChan-24-7</name>
+
+        <!-- Segmento para El Maestro Borracho 1 -->
+        <programme duration="6660">
+            <title>El Maestro Borracho 1</title>
+            <description>Película de Jackie Chan.</description>
+        </programme>
+
+        <!-- Segmento para El Maestro Borracho 2 -->
+        <programme duration="6120">
+            <title>El Maestro Borracho 2</title>
+            <description>Película de Jackie Chan.</description>
+        </programme>
+
+        <!-- Segmento para El Esmoquin -->
+        <programme duration="5880">
+            <title>El Esmoquin</title>
+            <description>Película de Jackie Chan.</description>
+        </programme>
+
+        <!-- Segmento para Una Pareja Explosiva 1 -->
+        <programme duration="5880">
+            <title>Una Pareja Explosiva 1</title>
+            <description>Película de Jackie Chan.</description>
+        </programme>
+
+    </channel>
+</tv>
