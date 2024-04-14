@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="JackieChan-24-7">
+    <name>JackieChan-24-7</name>
+    
+    <!-- Segmento para El Maestro Borracho 1 -->
+    <programme start="2024-04-14 08:00" stop="2024-04-14 10:00">
+      <title>El Maestro Borracho 1</title>
+      <description>Película de Jackie Chan.</description>
+    </programme>
+    
+    <!-- Segmento para El Maestro Borracho 2 -->
+    <programme start="2024-04-14 10:00" stop="2024-04-14 12:00">
+      <title>El Maestro Borracho 2</title>
+      <description>Película de Jackie Chan.</description>
+    </programme>
+    
+    <!-- Segmento para El Esmoquin -->
+    <programme start="2024-04-14 12:00" stop="2024-04-14 14:00">
+      <title>El Esmoquin</title>
+      <description>Película de Jackie Chan.</description>
+    </programme>
+    
+    <!-- Puedes agregar más segmentos aquí -->
+    
+  </channel>
+</tv>
