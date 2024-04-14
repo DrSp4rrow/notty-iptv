@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <channel id="JackieChan-24-7">
-        <name>JackieChan-24-7</name>
-
-        <!-- Segmento para El Maestro Borracho 1 -->
-        <programme duration="6660">
-            <title>El Maestro Borracho 1</title>
-            <description>Película de Jackie Chan.</description>
-        </programme>
-
-        <!-- Segmento para El Maestro Borracho 2 -->
-        <programme duration="6120">
-            <title>El Maestro Borracho 2</title>
-            <description>Película de Jackie Chan.</description>
-        </programme>
-
-        <!-- Segmento para El Esmoquin -->
-        <programme duration="5880">
-            <title>El Esmoquin</title>
-            <description>Película de Jackie Chan.</description>
-        </programme>
-
-        <!-- Segmento para Una Pareja Explosiva 1 -->
-        <programme duration="5880">
-            <title>Una Pareja Explosiva 1</title>
-            <description>Película de Jackie Chan.</description>
-        </programme>
-
+    <channel id="JackieChan-24-7.pe">
+        <display-name>Jackie Chan 24/7</display-name>
+        <icon
+            src="https://media.gq.com/photos/59b84156e98cd47a309ace1a/master/w_1600%2Cc_limit/Jackie-Chan-1017-GQ-FEJC01-02.jpg" />
+        <url>https://tv.movistar.com.pe</url>
     </channel>
+    <programme duration="6660" channel="JackieChan-24-7.pe">
+        <title lang="es">El Maestro Borracho 1</title>
+        <desc lang="es">La trama se centra en un joven y travieso Wong Fei Hung (a veces denominado
+            como "Freddie Wong"). Wong se mete en una serie de problemas. En primer lugar, le enseña
+            un abusivo maestro asistente de artes marciales una lección después que este humillara a
+            un pobre campesino y lo estafara. Después, molesta a una mujer para impresionar a sus
+            amigos y sólidamente es azotado por su tutora mayor como resultado; su vergüenza se
+            agrava cuando estas dos se revelan más tarde como su tía y su prima de visita, a quienes
+            no había conocido antes. Por último, él vence a un gamberro que es el hijo de un hombre
+            influyente en la ciudad. Su padre decide castigarlo por su comportamiento haciéndolo a
+            entrenar más difícil en las artes marciales.</desc>
+        <icon
+            src="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/oxQJT3CCwxRRDgnPUZvT6xmts61.jpg" />
+    </programme>
+    <programme duration="6660" channel="JackieChan-24-7.pe">
+        <title lang="es">El Maestro Borracho 2</title>
+        <desc lang="es">Cuando el gobierno británico es descubierto traficando con obras de arte
+            chinas fuera del país, el héroe Wong Fei Hung (Chan) utiliza sus extravagantes artes
+            marciales para luchar contra los conspiradores y salvar las obras, antes de que sea
+            demasiado tarde. Cuanto más bebe Hung, más ágil se vuelve, siendo capaz de defenderse de
+            numerosos ataques, con increíbles movimientos. Hung consigue, de esta manera, afrontar
+            todo tipo de desafíos.</desc>
+        <icon
+            src="https://media.themoviedb.org/t/p/w533_and_h300_bestv2/nPx3FS9ZnQ6fwy9BtgcnNZJpyXC.jpg" />
+    </programme>
 </tv>
