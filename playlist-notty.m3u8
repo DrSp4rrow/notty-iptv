@@ -11,6 +11,6 @@ http://190.109.4.34:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1024px-ATV_logo_2020.png", ATV HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="lch2201 tvg-name="Latina HD" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina HD
-http://190.109.4.34:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="lch2201 tvg-name="lch2201" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina HD
+http://190.116.38.18:8000/play/a02u/index.m3u8
 
