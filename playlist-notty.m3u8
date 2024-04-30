@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/guide.xml"
 #EXTINF:-1 tvg-id="lch2775" tvg-name="ESPN HD" group-title="DEPORTES" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/ESPN_Logo_Design_History_Evolution_0_1024x1024.jpg", ESPN HD | PE
 http://190.116.38.18:8000/play/a016/index.m3u8
 
