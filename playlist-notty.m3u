@@ -5,3 +5,12 @@ http://190.116.38.18:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="lch2297" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2 HD | PE
 http://190.116.38.18:8000/play/a00z/index.m3u8
 
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
+http://190.116.38.18:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" group-title="NACIONALES" tvg-logo="", ATV HD
+http://187.102.208.83:50000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" group-title="NACIONALES" tvg-logo="", Latina HD
+http://190.116.38.18:8000/play/a02u/index.m3u8
+
