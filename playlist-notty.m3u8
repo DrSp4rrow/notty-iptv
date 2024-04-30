@@ -1,0 +1,7 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="lch2775" tvg-name="ESPN HD" group-title="DEPORTES" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/ESPN_Logo_Design_History_Evolution_0_1024x1024.jpg", ESPN HD | PE
+http://190.116.38.18:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2297" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2 HD | PE
+http://190.116.38.18:8000/play/a00z/index.m3u8
+
