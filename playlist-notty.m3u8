@@ -38,3 +38,14 @@ http://190.116.38.18:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="lch2344" tvg-name="DISCOVERY HD" group-title="Documentales & Investigacion" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/discoveryhd.png", DISCOVERY HD
 http://190.116.38.18:8000/play/a039/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2343" tvg-name="DISCOVERY THEATER HD" group-title="Documentales & Investigacion" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/theather-discovery.png", DISCOVERY THEATER HD
+http://190.116.38.18:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2357" tvg-name="DISNEY CHANNEL HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
+http://190.116.38.18:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2336" tvg-name="CINEMAX HD" group-title="Peliculas & Series" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png", CINEMAX HD
+http://190.116.38.18:8000/play/a021/index.m3u8
+
+
+
