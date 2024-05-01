@@ -24,7 +24,7 @@ http://190.116.38.18:8000/play/a01w/index.m3u8
 http://187.102.208.83:50000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2202" tvg-name="AMERICA TELEVISION HD" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
-http://190.109.4.34:8000/play/a08i/index.m3u8
+http://190.116.38.18:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1024px-ATV_logo_2020.png", ATV HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
