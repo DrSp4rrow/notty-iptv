@@ -47,5 +47,15 @@ http://190.116.38.18:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="lch2336" tvg-name="CINEMAX HD" group-title="Peliculas & Series" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png", CINEMAX HD
 http://190.116.38.18:8000/play/a021/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2226" tvg-name="WARNER CHANNEL" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/640px-Warner2018LA.png", WARNER CHANNEL HD
+http://190.116.38.18:8000/play/a00v/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2229" tvg-name="UNIVERSAL CHANNEL" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Universal-TV.png", UNIVERSAL CHANNEL HD
+http://190.116.38.18:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/tnt.png", TNT HD
+http://190.116.38.18:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2224" tvg-name="TNT SERIES HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/TNT-SERIES.png", TNT SERIES HD
+http://190.116.38.18:8000/play/a03q/index.m3u8
 
