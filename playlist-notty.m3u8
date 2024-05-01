@@ -32,9 +32,9 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lch2201" tvg-name="LATINA HD" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina HD
 http://190.116.38.18:8000/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2354" tvg-name="HOME & HEALTH HD" group-title="DOCUMENTALES&INVESTIGACIÓN" tvg-logo="https://i.pinimg.com/564x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg", HOME & HEALTH HD
+#EXTINF:-1 tvg-id="lch2354" tvg-name="HOME & HEALTH HD" group-title="DOCUMENTALES&INVESTIGACION" tvg-logo="https://i.pinimg.com/564x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg", HOME & HEALTH HD
 http://190.116.38.18:8000/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2344" tvg-name="DISCOVERY HD" group-title="DOCUMENTALES&INVESTIGACIÓN" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/discoveryhd.png", DISCOVERY HD
+#EXTINF:-1 tvg-id="lch2344" tvg-name="DISCOVERY HD" group-title="DOCUMENTALES&INVESTIGACION" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/discoveryhd.png", DISCOVERY HD
 http://190.116.38.18:8000/play/a039/index.m3u8
 
