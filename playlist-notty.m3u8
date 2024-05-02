@@ -59,3 +59,5 @@ http://190.116.38.18:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="lch2224" tvg-name="TNT SERIES HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/TNT-SERIES.png", TNT SERIES HD
 http://190.116.38.18:8000/play/a03q/index.m3u8
 
+#EXTINF:-1 tvg-id="Chavo.O" tvg-name="CHAVO DEL OCHO HD" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/24-7-chavo8Original.png", 24/7 CHAVO DEL OCHO ORIGINAL
+https://stream.nottie-sux.online/LiveApp/streams/EQv4pQBbP0lp2jmW1714641760421.m3u8
