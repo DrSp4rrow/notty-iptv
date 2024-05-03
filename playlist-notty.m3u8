@@ -14,14 +14,23 @@ http://190.116.38.18:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="lch2813" tvg-name="ESPN EXTRA HD" group-title="Deportes" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a9e8791b76f7444f0bf_espn4.jpg", ESPN 4 HD | PE
 http://190.116.38.18:8000/play/a02c/index.m3u8
 
+#EXTINF:-1 tvg-id="ligaEsp" tvg-name="SKY SPORT LIGA ESP" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/sky-sport-la-liga.png", LA LIGA ESPAÑOLA / SKY SPORT | ESP
+http://168.232.168.242:4000/play/a04n/index.m3u8
+
 #EXTINF:-1 tvg-id="lch2295" tvg-name="FOX SPORTS 2" group-title="Deportes" tvg-logo="https://megadeportestv.live/img/espn7.png", FOX SPORT 2 / ESPN 7 HD | PE
 http://190.116.38.18:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2296" tvg-name="FOX SPORTS 3" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ESPN-6.png", FOX SPORT 3 / ESPN 6 HD | PE
 http://190.116.38.18:8000/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-id="LIGA.MAX" tvg-name="LIGA 1 MAX " group-title="Deportes" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png", LIGA 1 MAX | PE
+#EXTINF:-1 tvg-id="LIGA.MAX" tvg-name="LIGA 1 MAX" group-title="Deportes" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png", LIGA 1 MAX | PE
 http://187.102.208.83:50000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2319" tvg-name="GOLPERU HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/golperu.png", GOL PERU | PE
+http://190.116.38.18:8000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
+http://190.116.38.18:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2202" tvg-name="AMERICA TELEVISION HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
 http://190.116.38.18:8000/play/a02t/index.m3u8
@@ -64,3 +73,4 @@ https://stream.nottie-sux.online/LiveApp/streams/mtoaVBLErk58rzgE1714688640798.m
 
 #EXTINF:-1 tvg-id="Chavo.Original" tvg-name="CHAVO DEL OCHO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/24-7-chavo8Original.png", 24/7 CHAVO DEL OCHO ORIGINAL HD
 https://stream.nottie-sux.online/LiveApp/streams/vNE8tVuwXAALRxki1714689701490.m3u8
+
