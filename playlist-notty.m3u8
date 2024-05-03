@@ -68,6 +68,21 @@ http://190.116.38.18:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="lch2224" tvg-name="TNT SERIES HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/TNT-SERIES.png", TNT SERIES HD
 http://190.116.38.18:8000/play/a03q/index.m3u8
 
+#EXTINF:-1 tvg-id="lch6490" tvg-name="HBO" group-title="Peliculas & Series" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg", HBO HD
+http://190.116.38.18:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="lch6491" tvg-name="HBO 2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-2.png", HBO 2 HD
+http://190.116.38.18:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://190.116.38.18:8000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="lch6496" tvg-name="HBO XTREME" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-EXTREME.png", HBO EXTREME HD
+http://190.116.38.18:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="lch6494" tvg-name="HBO POP" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-POP.png", HBO POP HD
+http://190.116.38.18:8000/play/a010/index.m3u8
+
 #EXTINF:-1 tvg-id="Chavo.Animado" tvg-name="CHAVO ANIMADO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/images-_3_.png", 24/7 CHAVO DEL OCHO ANIMADO
 https://stream.nottie-sux.online/LiveApp/streams/mtoaVBLErk58rzgE1714688640798.m3u8
 
