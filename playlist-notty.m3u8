@@ -32,7 +32,7 @@ http://190.116.38.18:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
 http://190.116.38.18:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-id="SSC1.sport.arabia" tvg-name="SSC SPORT 1" group-title="Deportes Extrajeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ssc-sport1-arabia.png", SSC SPORT 1 HD | ARABIA
+#EXTINF:-1 tvg-id="SSC1.sport.arabia" tvg-name="SSC SPORT 1" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ssc-sport1-arabia.png", SSC SPORT 1 HD | ARABIA
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/112551.m3u8
 
 #EXTINF:-1 tvg-id="SSC1.sport.arabia.op2" tvg-name="SSC SPORT 1 OP2" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ssc-sport1-arabia.png", SSC SPORT 1 HD OP2 | ARABIA
