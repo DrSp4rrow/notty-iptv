@@ -38,6 +38,9 @@ http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/112551.m3u8
 #EXTINF:-1 tvg-id="SSC1.sport.arabia.op2" tvg-name="SSC SPORT 1 OP2" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ssc-sport1-arabia.png", SSC SPORT 1 HD OP2 | ARABIA
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/400551962.m3u8
 
+#EXTINF:-1 tvg-id="nba.tv.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD | US
+http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/378819.m3u8
+
 #EXTINF:-1 tvg-id="lch2202" tvg-name="AMERICA TELEVISION HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
 http://190.116.38.18:8000/play/a02t/index.m3u8
 
