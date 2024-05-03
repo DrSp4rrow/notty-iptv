@@ -83,6 +83,15 @@ http://190.116.38.18:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="lch6494" tvg-name="HBO POP" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-POP.png", HBO POP HD
 http://190.116.38.18:8000/play/a010/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2239" tvg-name="SPACE" group-title="Peliculas & Series" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032013/untitled-1_146.png", SPACE HD
+http://190.116.38.18:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2249" tvg-name="CINECANAL" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cinecanal.png", CINECANAL HD
+http://190.116.38.18:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2333" tvg-name="PARAMOUNT HD" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png", PARAMOUNT HD
+http://190.116.38.18:8000/play/a02g/index.m3u8
+
 #EXTINF:-1 tvg-id="Chavo.Animado" tvg-name="CHAVO ANIMADO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/images-_3_.png", 24/7 CHAVO DEL OCHO ANIMADO
 https://stream.nottie-sux.online/LiveApp/streams/mtoaVBLErk58rzgE1714688640798.m3u8
 
