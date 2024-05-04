@@ -47,10 +47,10 @@ http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/378820.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD OP3 | US
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/181377.m3u8
 
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD | ESP
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD OP1 | ESP
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/360194.m3u8
 
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD | ESP
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD OP2 | ESP
 http://akzxbeg.mexamo.xyz:80/live/7487972181/2633400566/165068.m3u8
 
 #EXTINF:-1 tvg-id="lch2202" tvg-name="AMERICA TELEVISION HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
