@@ -99,7 +99,7 @@ http://190.116.38.18:8000/play/a00x/index.m3u8
 http://190.116.38.18:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2333" tvg-name="PARAMOUNT HD" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png", PARAMOUNT HD
-http://190.116.38.18:8000/play/a02g/index.m3u8
+http://161.132.108.74:50001/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="depelis.mx" tvg-name="DE PELICULA" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA HD
 http://161.132.108.74:50001/play/a04g/index.m3u8
