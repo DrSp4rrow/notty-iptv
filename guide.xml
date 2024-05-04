@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240504">
 <channel id="ATV.pe"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://tv.movistar.com.pe</url></channel>
+<channel id="DAZN1.es"><display-name>DAZN 1</display-name><icon src="https://i.imgur.com/alzVFEm.png"/><url>https://movistarplus.es</url></channel>
+<channel id="DAZNLI"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
 <channel id="DePeliculaLatinAmerica.mx"><display-name>De Pelicula Latin America</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://cablego.com.pe</url></channel>
 <channel id="lch2201"><display-name>LATINA HD</display-name><url>https://tv.movistar.com.pe</url></channel>
 <channel id="lch2202"><display-name>AMERICA TELEVISION HD</display-name><url>https://tv.movistar.com.pe</url></channel>
@@ -80,6 +82,61 @@
 <programme start="20240505190000 +0000" stop="20240505213000 +0000" channel="ATV.pe"><title lang="es">Crepúsculo</title><desc lang="es">Una estudiante de escuela secundaria, recién llegada junto a su padre a un pequeño pueblo, comienza un apasionado y peligroso romance con un vampiro cuya familia ha renunciado a beber más sangre humana.</desc><icon src="http://media.cdn.telefonica.com/storagearea0/IMAGES/00/19/45/19452414_ADA4E7C1B0782285.jpg"/></programme>
 <programme start="20240505213000 +0000" stop="20240505233000 +0000" channel="ATV.pe"><title lang="es">Locos de ira</title><desc lang="es">Tras un malentendido a bordo de un avión, un hombre es condenado a asistir a las terapias del poco ortodoxo doctor Buddy Rydell para controlar su mal carácter.</desc><icon src="http://media.cdn.telefonica.com/storagearea0/IMAGES/00/16/82/16821736_FE4641B906ED9108.jpg"/></programme>
 <programme start="20240505233000 +0000" stop="20240506013000 +0000" channel="ATV.pe"><title lang="es">Frozen II</title><desc lang="es">Elsa siente que no encaja en Arandelle. La princesa y sus amigos viajan a los bosques embrujados y los mares oscuros que se extienden más allá de los límites de su reino para descubrir quién es en realidad y por qué posee un poder tan extraordinario.</desc><icon src="http://media.cdn.telefonica.com/storagearea0/IMAGES/00/19/45/19452514_03D35D3258A9F669.jpg"/></programme>
+<programme start="20240504040000 +0000" stop="20240504105000 +0000" channel="DAZN1.es"><title lang="es">Disfruta de DAZN en Movistar Plus+</title></programme>
+<programme start="20240504105000 +0000" stop="20240504112000 +0000" channel="DAZN1.es"><title lang="es">Santi Cazorla, el pequeño mago</title><category lang="es">Documentales</category></programme>
+<programme start="20240504112000 +0000" stop="20240504135000 +0000" channel="DAZN1.es"><title lang="es">Premier League (T23/24): Arsenal - Bournemouth</title><category lang="es">Deportes</category></programme>
+<programme start="20240504135000 +0000" stop="20240504162000 +0000" channel="DAZN1.es"><title lang="es">Premier League (T23/24): Burnley - Newcastle</title><category lang="es">Deportes</category></programme>
+<programme start="20240504162000 +0000" stop="20240504183500 +0000" channel="DAZN1.es"><title lang="es">Premier League (T23/24): Manchester City - Wolverhampton</title><category lang="es">Deportes</category></programme>
+<programme start="20240504183500 +0000" stop="20240504190200 +0000" channel="DAZN1.es"><title lang="es">Premier League Stories (T23/24): Julián Álvarez, la araña de la Premier</title><category lang="es">Deportes</category></programme>
+<programme start="20240504190200 +0000" stop="20240504210300 +0000" channel="DAZN1.es"><title lang="es">Premier League (T23/24): Arsenal - Bournemouth</title><category lang="es">Deportes</category></programme>
+<programme start="20240504210300 +0000" stop="20240504213200 +0000" channel="DAZN1.es"><title lang="es">The Making Of Canelo (T1): La lección</title><category lang="es">Deportes</category></programme>
+<programme start="20240504213200 +0000" stop="20240504220100 +0000" channel="DAZN1.es"><title lang="es">The Making Of Canelo (T1): La revancha</title><category lang="es">Deportes</category></programme>
+<programme start="20240504220100 +0000" stop="20240504223000 +0000" channel="DAZN1.es"><title lang="es">The Making Of Canelo (T1): El KO</title><category lang="es">Deportes</category></programme>
+<programme start="20240504223000 +0000" stop="20240504234900 +0000" channel="DAZN1.es"><title lang="es">Boxeo: velada Canelo vs. Ryder (T2023): Canelo vs. Ryder</title><category lang="es">Deportes</category></programme>
+<programme start="20240504234900 +0000" stop="20240505040000 +0000" channel="DAZN1.es"><title lang="es">Disfruta de DAZN en Movistar Plus+</title></programme>
+<programme start="20240505040000 +0000" stop="20240505095300 +0000" channel="DAZN1.es"><title lang="es">Disfruta de DAZN en Movistar Plus+</title></programme>
+<programme start="20240505095300 +0000" stop="20240505120500 +0000" channel="DAZN1.es"><title lang="es">Liga F (T23/24): Levante UD - Real Sociedad</title><category lang="es">Deportes</category></programme>
+<programme start="20240505120500 +0000" stop="20240505122200 +0000" channel="DAZN1.es"><title lang="es">Premier League Features (T3): Entrevista exclusiva con Sergio Rico</title><category lang="es">Deportes</category></programme>
+<programme start="20240505122200 +0000" stop="20240505125000 +0000" channel="DAZN1.es"><title lang="es">Premier League Stories (T23/24): Juan Sebastián Verón, la Brujita de la Premier</title><category lang="es">Deportes</category></programme>
+<programme start="20240505125000 +0000" stop="20240505152000 +0000" channel="DAZN1.es"><title lang="es">Premier League (T23/24): Chelsea - West Ham</title><category lang="es">Deportes</category></programme>
+<programme start="20240505152000 +0000" stop="20240505173500 +0000" channel="DAZN1.es"><title lang="es">Premier League (T23/24): Liverpool - Tottenham</title><category lang="es">Deportes</category></programme>
+<programme start="20240505173500 +0000" stop="20240505180100 +0000" channel="DAZN1.es"><title lang="es">Premier League Stories (T23/24): Alexis McAllister, sueños de campeón</title><category lang="es">Deportes</category></programme>
+<programme start="20240505180100 +0000" stop="20240505182300 +0000" channel="DAZN1.es"><title lang="es">El partido que cambió el fútbol</title><category lang="es">Deportes</category></programme>
+<programme start="20240505182300 +0000" stop="20240505203500 +0000" channel="DAZN1.es"><title lang="es">Liga F (T23/24): Madrid CFF - Real Madrid</title><category lang="es">Deportes</category></programme>
+<programme start="20240505203500 +0000" stop="20240505210000 +0000" channel="DAZN1.es"><title lang="es">The Making of Ronaldo (T1): La Premonición</title><category lang="es">Deportes</category></programme>
+<programme start="20240505210000 +0000" stop="20240505225100 +0000" channel="DAZN1.es"><title lang="es">Liga F (T23/24): Granada CF - FC Barcelona</title><category lang="es">Deportes</category></programme>
+<programme start="20240505225100 +0000" stop="20240506040000 +0000" channel="DAZN1.es"><title lang="es">Disfruta de DAZN en Movistar Plus+</title></programme>
+<programme start="20240504040000 +0000" stop="20240504100000 +0000" channel="DAZNLI"><title lang="es">DAZN LALIGA</title></programme>
+<programme start="20240504100000 +0000" stop="20240504113000 +0000" channel="DAZNLI"><title lang="es">El Post de DAZN (T23/24): Análisis de la jornada 33</title><category lang="es">Deportes</category></programme>
+<programme start="20240504113000 +0000" stop="20240504143000 +0000" channel="DAZNLI"><title lang="es">LALIGA EA SPORTS (T23/24): Real Sociedad - Las Palmas</title><category lang="es">Deportes</category></programme>
+<programme start="20240504143000 +0000" stop="20240504150000 +0000" channel="DAZNLI"><title lang="es">Dorsal 12 (T23/24): La salud mental, el mejor título</title><category lang="es">Deportes</category></programme>
+<programme start="20240504150000 +0000" stop="20240504160000 +0000" channel="DAZNLI"><title lang="es">Super 8 (T23/24): Jornada 33</title><category lang="es">Deportes</category></programme>
+<programme start="20240504160000 +0000" stop="20240504190000 +0000" channel="DAZNLI"><title lang="es">LALIGA EA SPORTS (T23/24): Girona - Barcelona</title><category lang="es">Deportes</category></programme>
+<programme start="20240504190000 +0000" stop="20240504193000 +0000" channel="DAZNLI"><title lang="es">Dorsal 12 (T23/24): El guardián de la Ciudad Deportiva</title><category lang="es">Deportes</category></programme>
+<programme start="20240504193000 +0000" stop="20240504194500 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Real Madrid - Cádiz</title><category lang="es">Deportes</category></programme>
+<programme start="20240504194500 +0000" stop="20240504200000 +0000" channel="DAZNLI"><title lang="es">Iconos (T2023): Álex Remiro</title><category lang="es">Deportes</category></programme>
+<programme start="20240504200000 +0000" stop="20240504220000 +0000" channel="DAZNLI"><title lang="es">LALIGA EA SPORTS (T23/24): Real Sociedad - Las Palmas</title><category lang="es">Deportes</category></programme>
+<programme start="20240504220000 +0000" stop="20240504221500 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Mallorca - Atlético de Madrid</title><category lang="es">Deportes</category></programme>
+<programme start="20240504221500 +0000" stop="20240504230000 +0000" channel="DAZNLI"><title lang="es">Dorsal 12 (T23/24): Un demonio irllandés en Mallorca</title><category lang="es">Deportes</category></programme>
+<programme start="20240504230000 +0000" stop="20240505040000 +0000" channel="DAZNLI"><title lang="es">DAZN LALIGA</title></programme>
+<programme start="20240505040000 +0000" stop="20240505100000 +0000" channel="DAZNLI"><title lang="es">DAZN LALIGA</title></programme>
+<programme start="20240505100000 +0000" stop="20240505120000 +0000" channel="DAZNLI"><title lang="es">LALIGA EA SPORTS (T23/24): Girona - Barcelona</title><category lang="es">Deportes</category></programme>
+<programme start="20240505120000 +0000" stop="20240505123000 +0000" channel="DAZNLI"><title lang="es">OR7GEN (T2023): Gen La Masía</title><category lang="es">Deportes</category></programme>
+<programme start="20240505123000 +0000" stop="20240505124500 +0000" channel="DAZNLI"><title lang="es">Iconos (T2023): Jordi Alba</title><category lang="es">Deportes</category></programme>
+<programme start="20240505124500 +0000" stop="20240505130000 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Real Madrid - Cádiz</title><category lang="es">Deportes</category></programme>
+<programme start="20240505130000 +0000" stop="20240505131500 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Mallorca - Atlético de Madrid</title><category lang="es">Deportes</category></programme>
+<programme start="20240505131500 +0000" stop="20240505134500 +0000" channel="DAZNLI"><title lang="es">Dorsal 12 (T23/24): Balaídos es AMOR</title><category lang="es">Deportes</category></programme>
+<programme start="20240505134500 +0000" stop="20240505164500 +0000" channel="DAZNLI"><title lang="es">LALIGA EA SPORTS (T23/24): Celta - Villarreal</title><category lang="es">Deportes</category></programme>
+<programme start="20240505164500 +0000" stop="20240505171500 +0000" channel="DAZNLI"><title lang="es">Dorsal 12 (T23/24): Villarreal CF</title><category lang="es">Deportes</category></programme>
+<programme start="20240505171500 +0000" stop="20240505173000 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Osasuna - Betis</title><category lang="es">Deportes</category></programme>
+<programme start="20240505173000 +0000" stop="20240505174500 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Real Madrid - Cádiz</title><category lang="es">Deportes</category></programme>
+<programme start="20240505174500 +0000" stop="20240505180000 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Mallorca - Atlético de Madrid</title><category lang="es">Deportes</category></programme>
+<programme start="20240505180000 +0000" stop="20240505183000 +0000" channel="DAZNLI"><title lang="es">Dorsal 12 (T23/24): El Gran Derbi</title><category lang="es">Deportes</category></programme>
+<programme start="20240505183000 +0000" stop="20240505210000 +0000" channel="DAZNLI"><title lang="es">LALIGA EA SPORTS (T23/24): Sevilla - Granada</title><category lang="es">Deportes</category></programme>
+<programme start="20240505210000 +0000" stop="20240505223000 +0000" channel="DAZNLI"><title lang="es">El Post de DAZN (T23/24): Análisis de la jornada 34</title><category lang="es">Deportes</category></programme>
+<programme start="20240505223000 +0000" stop="20240505224500 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Rayo - Almería</title><category lang="es">Deportes</category></programme>
+<programme start="20240505224500 +0000" stop="20240505230000 +0000" channel="DAZNLI"><title lang="es">Resúmenes DAZN LaLiga EA Sports (T23/24): Valencia - Alavés</title><category lang="es">Deportes</category></programme>
+<programme start="20240505230000 +0000" stop="20240506040000 +0000" channel="DAZNLI"><title lang="es">DAZN LALIGA</title></programme>
 <programme start="20240504062900 +0000" stop="20240504075500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Los marcados</title></programme>
 <programme start="20240504075500 +0000" stop="20240504092300 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Ladrones de niños</title></programme>
 <programme start="20240504092300 +0000" stop="20240504105500 +0000" channel="DePeliculaLatinAmerica.mx"><title lang="es">Chicas casaderas</title></programme>
