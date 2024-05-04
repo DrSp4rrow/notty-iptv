@@ -87,7 +87,7 @@ http://190.116.38.18:8000/play/a02j/index.m3u8
 http://190.116.38.18:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6496" tvg-name="HBO XTREME" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-EXTREME.png", HBO EXTREME HD
-http://190.116.38.18:8000/play/a03d/index.m3u8
+http://161.132.108.74:50001/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6494" tvg-name="HBO POP" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-POP.png", HBO POP HD
 http://190.116.38.18:8000/play/a010/index.m3u8
