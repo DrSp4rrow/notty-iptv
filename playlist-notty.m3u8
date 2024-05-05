@@ -38,11 +38,26 @@ http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/112551.m3u8
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-name="SSC 1 HD" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ssc-sport1-arabia.png", SSC SPORT 1 HD OP2 | ARABIA
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/400551962.m3u8
 
-#EXTINF:-1 tvg-id="nba.tv.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD | US
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD OP1 | US
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/378819.m3u8
 
-#EXTINF:-1 tvg-id="dazn.1.esp" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD | ESP
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD OP2 | US
+http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/378820.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD OP3 | US
+http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/181377.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD OP1 | ESP
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/360194.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD OP2 | ESP
+http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165068.m3u8
+
+#EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP1 | US
+http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/212529.m3u8
+
+#EXTINF:-1 tvg-id="ufc.channel.us" tvg-name="UFC CHANNEL" group-title="Deportes Extranjeros" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg", UFC CHANNEL HD OP1 | US
+http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/181532.m3u8
 
 #EXTINF:-1 tvg-id="lch2202" tvg-name="AMERICA TELEVISION HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
 http://190.116.38.18:8000/play/a02t/index.m3u8
@@ -113,3 +128,5 @@ https://stream.nottie-sux.online/LiveApp/streams/mtoaVBLErk58rzgE1714688640798.m
 #EXTINF:-1 tvg-id="Chavo.Original" tvg-name="CHAVO DEL OCHO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/24-7-chavo8Original.png", 24/7 CHAVO DEL OCHO ORIGINAL HD
 https://stream.nottie-sux.online/LiveApp/streams/vNE8tVuwXAALRxki1714689701490.m3u8
 
+#EXTINF:-1 tvg-id="cantinflas.mx" tvg-name="CANTINFLAS" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cantinflas.png", 24/7 CANTINFLAS HD
+https://stream.nottie-sux.online/LiveApp/streams/BJ4Wj9L3vY3Uku7O1714879798705.m3u8
