@@ -53,6 +53,9 @@ http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/360194.m3u8
 #EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD OP2 | ESP
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165068.m3u8
 
+#EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP1 | ESP
+http://akzxbeg.mexamo.xyz:80/live/7487972181/2633400566/189457.m3u8
+
 #EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP1 | US
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/212529.m3u8
 
