@@ -184,6 +184,11 @@ http://161.132.108.74:50001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TL NOVELAS HD
 http://190.116.38.18:8000/play/a04a/index.m3u8
 
+#EXTINF:-1 tvg-id="DISNEY.ESP" tvg-name="DISNEY ESPAÑA LATINO OP1" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL LAT HD OP1 | ESP
+http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/359451.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY.ESP" tvg-name="DISNEY ESPAÑA LATINO OP2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL LAT HD OP2 | ESP
+http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/359451.m3u8
 
 
 
