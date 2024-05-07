@@ -90,8 +90,17 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lch2201" tvg-name="LATINA HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina HD
 http://190.116.38.18:8000/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2203" tvg-name="PANAMERICANA TELEVISION HD" group-title="Nacionales" tvg-logo="", PANAMERICANA HD
+#EXTINF:-1 tvg-id="lch2203" tvg-name="PANAMERICANA TELEVISION HD" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/PANAMERICANA.png", PANAMERICANA HD
 http://187.102.208.83:50000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="lch5614" tvg-name="WILLAX TV HD" group-title="Nacionales" tvg-logo="", WILLAX HD
+http://187.102.208.83:50000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" group-title="Nacionales" tvg-logo="", ATV+ HD
+http://187.102.208.83:50000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2204" tvg-name="TV PERU HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png", TV PERU HD
+http://187.102.208.83:50000/play/a037/index.m3u8
 
 
 
