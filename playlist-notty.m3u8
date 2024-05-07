@@ -65,6 +65,9 @@ http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165068.m3u8
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP1 | ESP
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165968.m3u8
 
+#EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP2 | ESP
+http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/165968.m3u8
+
 #EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP1 | US
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/212529.m3u8
 
@@ -115,6 +118,15 @@ http://190.116.38.18:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="lch2343" tvg-name="DISCOVERY THEATER HD" group-title="Documentales & Investigacion" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/theather-discovery.png", DISCOVERY THEATER HD
 http://190.116.38.18:8000/play/a03i/index.m3u8
 
+#EXTINF:-1 tvg-id="lch2327" tvg-name="ID HD - INVESTIGATION DISCOVERY HD" group-title="Documentales & Investigacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png", INVESTIGATION DISCOVERY HD
+http://190.116.38.18:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2353" tvg-name="DISCOVERY WORLD HD" group-title="Documentales & Investigacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD HD
+http://190.116.38.18:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="lch2275" tvg-name="DISCOVERY TURBO" group-title="Documentales & Investigacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO HD
+http://190.60.40.37:12500/play/a0ar/index.m3u8
+
 
 
 
@@ -163,6 +175,9 @@ http://161.132.108.74:50001/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA HD
 http://161.132.108.74:50001/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TL NOVELAS HD
+http://190.116.38.18:8000/play/a04a/index.m3u8
 
 
 
