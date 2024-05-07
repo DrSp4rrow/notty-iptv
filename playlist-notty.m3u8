@@ -80,9 +80,11 @@ http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/181532.m3u8
 #EXTINF:-1 tvg-id="ufc.channel.us" tvg-name="UFC CHANNEL" group-title="Deportes Extranjeros" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg", UFC CHANNEL HD OP2 | US
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/181532.m3u8
 
-#EXTINF:-1 tvg-id="MVF1" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="", DAZN F1 HD OP1 | US
-http://tmxmnfc.mexamo.xyz:80/9547451342/3326350014/165973
+#EXTINF:-1 tvg-id="MVF1" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="", DAZN FORMULA 1 HD OP1 | ESP
+http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/165973.m3u8
 
+#EXTINF:-1 tvg-id="MVF1" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="", DAZN FORMULA 1 HD OP2 | ESP
+http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165973.m3u8
 
 
 
