@@ -17,7 +17,7 @@ http://190.116.38.18:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="ligaEsp" tvg-name="SKY SPORT LIGA ESP" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/sky-sport-la-liga.png", LA LIGA ESPAÑOLA / SKY SPORT | ESP
 http://168.232.168.242:4000/play/a04n/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2295" tvg-name="FOX SPORTS 2" group-title="Deportes" tvg-logo="https://megadeportestv.live/img/espn7.png", FOX SPORT 2 / ESPN 7 HD | PE
+#EXTINF:-1 tvg-id="lch2295" tvg-name="FOX SPORTS 2" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/espn-7.png", FOX SPORT 2 / ESPN 7 HD | PE
 http://190.116.38.18:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2296" tvg-name="FOX SPORTS 3" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ESPN-6.png", FOX SPORT 3 / ESPN 6 HD | PE
