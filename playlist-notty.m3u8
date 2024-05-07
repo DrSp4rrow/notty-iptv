@@ -80,10 +80,10 @@ http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/181532.m3u8
 #EXTINF:-1 tvg-id="ufc.channel.us" tvg-name="UFC CHANNEL" group-title="Deportes Extranjeros" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg", UFC CHANNEL HD OP2 | US
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/181532.m3u8
 
-#EXTINF:-1 tvg-id="MVF1" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN FORMULA 1 HD OP1 | ESP
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN FORMULA 1 HD OP1 | ESP
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/165973.m3u8
 
-#EXTINF:-1 tvg-id="MVF1" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN FORMULA 1 HD OP2 | ESP
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN FORMULA 1 HD OP2 | ESP
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165973.m3u8
 
 
@@ -107,7 +107,7 @@ http://187.102.208.83:50000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ATV-PLUS.png", ATV+ HD
 http://187.102.208.83:50000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2204" tvg-name="TV PERU HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png", TV PERU HD
+#EXTINF:-1 tvg-id="lch5666" tvg-name="TV PERU HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png", TV PERU HD
 http://187.102.208.83:50000/play/a037/index.m3u8
 
 
