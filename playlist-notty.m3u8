@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/guide.xml"
+
+############### --------------- DEPORTES --------------- ###############
+
 #EXTINF:-1 tvg-id="lch2775" tvg-name="ESPN HD" group-title="Deportes" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/ESPN_Logo_Design_History_Evolution_0_1024x1024.jpg", ESPN HD | PE
 http://190.116.38.18:8000/play/a016/index.m3u8
 
@@ -32,6 +35,8 @@ http://190.116.38.18:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
 http://190.116.38.18:8000/play/a02l/index.m3u8
 
+############### --------------- DEPORTES EXTRANJEROS --------------- ###############
+
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-name="SSC 1 HD" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ssc-sport1-arabia.png", SSC SPORT 1 HD OP1 | ARABIA
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/112551.m3u8
 
@@ -59,8 +64,16 @@ http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165968.m3u8
 #EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP1 | US
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/212529.m3u8
 
+#EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP2 | US
+http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/212529.m3u8
+
 #EXTINF:-1 tvg-id="ufc.channel.us" tvg-name="UFC CHANNEL" group-title="Deportes Extranjeros" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg", UFC CHANNEL HD OP1 | US
 http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/181532.m3u8
+
+#EXTINF:-1 tvg-id="ufc.channel.us" tvg-name="UFC CHANNEL" group-title="Deportes Extranjeros" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg", UFC CHANNEL HD OP2 | US
+http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/181532.m3u8
+
+############### --------------- NACIONALES --------------- ###############
 
 #EXTINF:-1 tvg-id="lch2202" tvg-name="AMERICA TELEVISION HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
 http://190.116.38.18:8000/play/a02t/index.m3u8
@@ -71,6 +84,8 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lch2201" tvg-name="LATINA HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina HD
 http://190.116.38.18:8000/play/a02u/index.m3u8
 
+############### --------------- DOCUMENTALES & INVESTIGACION --------------- ###############
+
 #EXTINF:-1 tvg-id="lch2354" tvg-name="HOME & HEALTH HD" group-title="Documentales & Investigacion" tvg-logo="https://i.pinimg.com/564x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg", HOME & HEALTH HD
 http://190.116.38.18:8000/play/a03h/index.m3u8
 
@@ -79,6 +94,8 @@ http://190.116.38.18:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2343" tvg-name="DISCOVERY THEATER HD" group-title="Documentales & Investigacion" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/theather-discovery.png", DISCOVERY THEATER HD
 http://190.116.38.18:8000/play/a03i/index.m3u8
+
+############### --------------- PELICULAS & SERIES --------------- ###############
 
 #EXTINF:-1 tvg-id="lch2357" tvg-name="DISNEY CHANNEL HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
 http://190.116.38.18:8000/play/a01s/index.m3u8
@@ -124,6 +141,8 @@ http://161.132.108.74:50001/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA HD
 http://161.132.108.74:50001/play/a04g/index.m3u8
+
+############### --------------- CANALES 24/7 --------------- ###############
 
 #EXTINF:-1 tvg-id="Chavo.Animado" tvg-name="CHAVO ANIMADO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/images-_3_.png", 24/7 CHAVO DEL OCHO ANIMADO
 https://stream.nottie-sux.online/LiveApp/streams/mtoaVBLErk58rzgE1714688640798.m3u8
