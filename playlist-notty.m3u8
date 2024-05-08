@@ -204,9 +204,10 @@ https://stream.nottie-sux.online/LiveApp/streams/qWNgHBVlNcL1vl4r1715080238583.m
 https://stream.nottie-sux.online/LiveApp/streams/vNE8tVuwXAALRxki1714689701490.m3u8
 
 #EXTINF:-1 tvg-id="cantinflas.mx" tvg-name="CANTINFLAS" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cantinflas.png", 24/7 CANTINFLAS HD
+https://stream.nottie-sux.online/LiveApp/streams/OjAbVITfIBiT4bH91715194429849.m3u8
 
-#EXTINF:-1 tvg-id="CHAPOLIN.BOB.SPONJA" tvg-name="CHAPOLIN & BOB ESPONJA" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/CHAPULIN-BOBO.png", 24/7 CHAPULIN & BOB ESPONJA HD
-
+#EXTINF:-1 tvg-id="iCarly.full" tvg-name="SERIE ICARLY" group-title="24/7" tvg-logo="", 24/7 iCarly HD
+https://stream.nottie-sux.online/LiveApp/streams/0ty5c2OBBPCqTDgW1715194135660.m3u8
 
 #EXTINF:-1 tvg-id="CORAJE.PERRO" tvg-name="CORAJE EL PERRO COBARDE" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/coraje-perro.png", 24/7 CORAJE EL PERRO COBARDE SD
 https://stream.nottie-sux.online/LiveApp/streams/6ACDjsqtiMZl8SGR1715073081686.m3u8
