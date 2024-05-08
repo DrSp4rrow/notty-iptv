@@ -197,7 +197,7 @@ http://181.78.22.251:8090/play/a00f/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Chavo.Animado" tvg-name="CHAVO ANIMADO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/images-_3_.png", 24/7 CHAVO DEL OCHO ANIMADO
+#EXTINF:-1 tvg-id="Chavo.Animado" tvg-name="CHAVO ANIMADO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/images-_3_.png", 24/7 CHAVO DEL OCHO ANIMADO SD
 https://stream.nottie-sux.online/LiveApp/streams/qWNgHBVlNcL1vl4r1715080238583.m3u8
 
 #EXTINF:-1 tvg-id="Chavo.Original" tvg-name="CHAVO DEL OCHO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/24-7-chavo8Original.png", 24/7 CHAVO DEL OCHO ORIGINAL HD
@@ -206,8 +206,11 @@ https://stream.nottie-sux.online/LiveApp/streams/vNE8tVuwXAALRxki1714689701490.m
 #EXTINF:-1 tvg-id="cantinflas.mx" tvg-name="CANTINFLAS" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cantinflas.png", 24/7 CANTINFLAS HD
 https://stream.nottie-sux.online/LiveApp/streams/BJ4Wj9L3vY3Uku7O1714879798705.m3u8
 
-#EXTINF:-1 tvg-id="CHAPOLIN.BOB.SPONJA" tvg-name="CHA" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/CHAPULIN-BOBO.png", 24/7 CHAPULIN & BOB ESPONJA HD
+#EXTINF:-1 tvg-id="CHAPOLIN.BOB.SPONJA" tvg-name="CHAPOLIN & BOB ESPONJA" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/CHAPULIN-BOBO.png", 24/7 CHAPULIN & BOB ESPONJA HD
 http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/356030.m3u8
 
-#EXTINF:-1 tvg-id="CORAJE.PERRO" tvg-name="CHA" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/coraje-perro.png", 24/7 CORAJE PERRO COBARDE SD
+#EXTINF:-1 tvg-id="CORAJE.PERRO" tvg-name="CORAJE EL PERRO COBARDE" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/coraje-perro.png", 24/7 CORAJE EL PERRO COBARDE SD
 https://stream.nottie-sux.online/LiveApp/streams/6ACDjsqtiMZl8SGR1715073081686.m3u8
+
+#EXTINF:-1 tvg-id="movies.marvel" tvg-name="MARVEL MOVIES" group-title="24/7" tvg-logo="", 24/7 PELICULAS MARVEL HD
+https://stream.nottie-sux.online/LiveApp/streams/WA6vpwtS98t9eRsU1715127033697.m3u8
