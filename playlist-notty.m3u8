@@ -173,7 +173,7 @@ http://187.102.208.83:50000/play/a02q/index.m3u8
 http://187.102.208.83:50000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2249" tvg-name="CINECANAL" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cinecanal.png", CINECANAL HD
-http://187.102.208.83:50000/play/a00t/index.m3u8
+http://204.157.251.250:8000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2333" tvg-name="PARAMOUNT HD" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png", PARAMOUNT HD
 http://161.132.108.74:50001/play/a018/index.m3u8
