@@ -63,7 +63,7 @@ http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/360194.m3u8
 http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/165968.m3u8
 
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP2 | ESP
-http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/187582.m3u8
+http://gzrqxpw.mexamo.xyz/live/1002378585/7057806128/401188655.m3u8
 
 #EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP1 | US
 http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/212529.m3u8
@@ -180,9 +180,6 @@ http://161.132.108.74:50001/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TL NOVELAS HD
 http://187.102.208.83:50000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY.ESP" tvg-name="DISNEY ESPAÑA LATINO OP2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL EXTRAS LAT | ESP
-http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/359451.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY.ESP" tvg-name="DISNEY ESPAÑA LATINO OP1" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL CLASSIC LAT | ESP
 http://45.5.116.178:8000/play/a04w/index.m3u8
