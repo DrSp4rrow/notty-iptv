@@ -45,37 +45,37 @@ http://187.102.208.83:50000/play/a018/index.m3u8
 http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/400551970.m3u8
 
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-name="SSC 1 HD" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ssc-sport1-arabia.png", SSC SPORT 1 HD OP2 | ARABIA
-http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/400551962.m3u8
+http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/112551.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD OP1 | US
 http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/378820.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD OP2 | US
-
+http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/181377.m3u8
 
 #EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD OP1 | ESP
 http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/360194.m3u8
 
 #EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/2560px-DAZN_1.svg.png", DAZN 1 HD OP2 | ESP
-http://akzxbeg.mexamo.xyz/live/7487972181/2633400566/165068.m3u8
+http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/360194.m3u8
 
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP1 | ESP
 http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/165968.m3u8
 
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP2 | ESP
-http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/165968.m3u8
+http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/187582.m3u8
 
 #EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP1 | US
 http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/212529.m3u8
 
 #EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP2 | US
-http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/212529.m3u8
+
 
 #EXTINF:-1 tvg-id="ufc.channel.us" tvg-name="UFC CHANNEL" group-title="Deportes Extranjeros" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg", UFC CHANNEL HD OP1 | US
 http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/181532.m3u8
 
 #EXTINF:-1 tvg-id="ufc.channel.us" tvg-name="UFC CHANNEL" group-title="Deportes Extranjeros" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg", UFC CHANNEL HD OP2 | US
-http://tmxmnfc.mexamo.xyz/live/9547451342/3326350014/181532.m3u8
+
 
 #EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN FORMULA 1 HD OP1 | ESP
 http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/165888.m3u8
