@@ -101,9 +101,6 @@ http://187.102.208.83:50000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="lch2203" tvg-name="PANAMERICANA TELEVISION HD" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/PANAMERICANA.png", PANAMERICANA HD
 http://187.102.208.83:50000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-id="lch5614" tvg-name="WILLAX TV HD" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/willax.png", WILLAX HD
-https://live-b.cf.dmcdn.net/sec2(42tjhGb70oVrjzPyaMzYtSH77mzsYzG65WHh-JwKcOz4CAEotwOKzvIVULLkg0mh4jc5B_zjujhdcnWecvi1AcslXoC_AA-kCcFZE48tXTg)/dm/3/x7x4dgx/s/live-1.m3u8
-
 #EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ATV-PLUS.png", ATV+ HD
 http://187.102.208.83:50000/play/a039/index.m3u8
 
