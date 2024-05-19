@@ -36,6 +36,11 @@ http://187.102.208.83:50000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
 http://187.102.208.83:50000/play/a018/index.m3u8
 
+#EXTINF:-1 tvg-id="DS01" tvg-name="DIRECTV SPORT 1" group-title="Deportes" tvg-logo="", DIRECTV SPORT 1 | PE
+http://38.252.218.1:4000/play/a090/index.m3u8
+
+#EXTINF:-1 tvg-id="DS02" tvg-name="DIRECTV SPORT 2" group-title="Deportes" tvg-logo="", DIRECTV SPORT 2 | PE
+http://38.252.218.1:4000/play/a091/index.m3u8
 
 
 
