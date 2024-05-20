@@ -86,6 +86,11 @@ http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/165888.m3u8
 #EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN FORMULA 1 HD OP2 | ESP
 http://mfjysqn.smart-tv.xyz/live/6649701422/3968425942/400241869.m3u8
 
+#EXTINF:-1 tvg-id="1604#ESPHD" tvg-name="ESPN Premium (HD)" group-title="Deportes Extranjeros" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD | ARG
+http://187.102.208.83:50000/play/a04i/index.m3u8
+
+
+
 
 
 
