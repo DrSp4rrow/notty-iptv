@@ -211,7 +211,7 @@ http://200.37.186.109:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="lch2325" tvg-name="FX HD" group-title="Peliculas & Series" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg", FX HD
 http://200.37.186.109:8000/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-id="1#GOLDENEDGE" tvg-name="GOLDEN EDGE" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png", GOLDEN HD
+#EXTINF:-1 tvg-id="1#GOLDENLATINO" tvg-name="GOLDEN LATINO" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png", GOLDEN HD
 http://200.37.186.109:8000/play/a033/index.m3u8
 
 
