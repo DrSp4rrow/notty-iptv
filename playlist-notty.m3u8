@@ -233,10 +233,10 @@ http://200.37.186.109:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" group-title="Peliculas & Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png", GOLDEN PREMIER HD
 http://204.157.251.250:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2245" tvg-name="STUDIO UNIVERSAL" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="1#STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL HD
 http://200.37.186.109:8000/play/a08l/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2320" tvg-name="STAR CHANNEL HD" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png", STAR CHANNEL HD
+#EXTINF:-1 tvg-id="0#FOXCHANNEL" tvg-name="STAR CHANNEL" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png", STAR CHANNEL HD
 http://170.81.241.222:31589/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2225" tvg-name="SONY" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY CHANNEL HD
