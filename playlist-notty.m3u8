@@ -36,6 +36,11 @@ http://187.102.208.83:50000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
 http://187.102.208.83:50000/play/a018/index.m3u8
 
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Deportes" tvg-logo="https://cdn6.aptoide.com/imgs/8/5/b/85b6f639ad769d64a08e82d7a8079fa8_icon.png", TyC SPORTS
+http://187.102.208.83:50000/play/a066/index.m3u8
+
+
+
 
 
 
