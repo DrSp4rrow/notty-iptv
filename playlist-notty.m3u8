@@ -39,7 +39,7 @@ http://187.102.208.83:50000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Deportes" tvg-logo="https://cdn6.aptoide.com/imgs/8/5/b/85b6f639ad769d64a08e82d7a8079fa8_icon.png", TyC SPORTS
 http://187.102.208.83:50000/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-logo="", DIRECTV SPORTS 1
+#EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS
 http://38.252.218.134:4000/play/a090/index.m3u8
 
 #EXTINF:-1 tvg-id="DTV.SPORTS2" tvg-name="DIRECTV SPORTS 2" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png", DIRECTV SPORTS 2
