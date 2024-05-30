@@ -288,3 +288,9 @@ https://nani.nottie-sux.online/live/Demon/DarkStar666/4.m3u8
 
 #EXTINF:-1 tvg-id="movies.marvel" tvg-name="MARVEL MOVIES" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Marvel-Studios-logo.png", 24/7 PELICULAS MARVEL HD
 https://nani.nottie-sux.online/live/Demon/DarkStar666/5.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TGD.S07E01" tvg-name="THE GOOD DOCTOR S07E01" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 1
+https://archive.org/download/the-gd/TGD_S07S01.mkv
