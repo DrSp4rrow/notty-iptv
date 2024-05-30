@@ -294,3 +294,9 @@ https://nani.nottie-sux.online/live/Demon/DarkStar666/5.m3u8
 
 #EXTINF:-1 tvg-id="TGD.S07E01" tvg-name="THE GOOD DOCTOR S07E01" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 1
 https://archive.org/download/the-gd/TGD_S07S01.mkv
+
+#EXTINF:-1 tvg-id="TGD.S07E02" tvg-name="THE GOOD DOCTOR S07E02" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 2
+https://archive.org/download/tgd-2-3/TGD_S07S02.mkv
+
+#EXTINF:-1 tvg-id="TGD.S07E03" tvg-name="THE GOOD DOCTOR S07E03" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 3
+https://archive.org/download/tgd-2-3/TGD_S07S03.mkv
