@@ -7,13 +7,13 @@
 http://138.186.20.13:23200/play/a0fl
 
 #EXTINF:-1 tvg-id="lch2297" tvg-name="ESPN 2" group-title="Deportes" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2 HD | PE
-http://187.102.208.83:50000/play/a04d/index.m3u8
+http://138.186.20.13:23200/play/a04u
 
 #EXTINF:-1 tvg-id="lch2776" tvg-name="ESPN 3 HD" group-title="Deportes" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg", ESPN 3 HD | PE
-http://187.102.208.83:50000/play/a04e/index.m3u8
+http://138.186.20.13:23200/play/a056
 
 #EXTINF:-1 tvg-id="lch5615" tvg-name="ESPN 4 HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Espn5.png", ESPN 5 HD | PE
-http://187.102.208.83:50000/play/a00e/index.m3u8
+http://138.186.20.13:23200/play/a0fh
 
 #EXTINF:-1 tvg-id="lch2813" tvg-name="ESPN EXTRA HD" group-title="Deportes" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a9e8791b76f7444f0bf_espn4.jpg", ESPN 4 HD | PE
 http://187.102.208.83:50000/play/a04g/index.m3u8
@@ -25,7 +25,7 @@ http://168.232.168.242:4000/play/a04n/index.m3u8
 http://187.102.208.83:50000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2296" tvg-name="FOX SPORTS 3" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ESPN-6.png", FOX SPORT 3 / ESPN 6 HD | PE
-http://187.102.208.83:50000/play/a029/index.m3u8
+http://138.186.20.13:23200/play/a057
 
 #EXTINF:-1 tvg-id="LIGA.MAX" tvg-name="LIGA 1 MAX" group-title="Deportes" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png", LIGA 1 MAX | PE
 http://187.102.208.83:50000/play/a02c/index.m3u8
