@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="lch2775" tvg-name="ESPN HD" group-title="Deportes" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/ESPN_Logo_Design_History_Evolution_0_1024x1024.jpg", ESPN HD | PE
-http://187.102.208.83:50000/play/a02f/index.m3u8
+http://138.186.20.13:23200/play/a0fl
 
 #EXTINF:-1 tvg-id="lch2297" tvg-name="ESPN 2" group-title="Deportes" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", ESPN 2 HD | PE
 http://187.102.208.83:50000/play/a04d/index.m3u8
