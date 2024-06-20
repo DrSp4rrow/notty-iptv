@@ -31,16 +31,16 @@ http://138.186.20.13:23200/play/a057
 http://187.102.208.83:50000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2319" tvg-name="GOLPERU HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/golperu.png", GOL PERU | PE
-http://187.102.208.83:50000/play/a016/index.m3u8
+http://200.60.124.19:29000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", MOVISTAR DEPORTES | PE
-http://187.102.208.83:50000/play/a018/index.m3u8
+http://200.60.124.19:29000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Deportes" tvg-logo="https://cdn6.aptoide.com/imgs/8/5/b/85b6f639ad769d64a08e82d7a8079fa8_icon.png", TyC SPORTS
 http://187.102.208.83:50000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS
-http://38.252.218.134:4000/play/a090/index.m3u8
+http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/32058.m3u8
 
 #EXTINF:-1 tvg-id="DTV.SPORTS2" tvg-name="DIRECTV SPORTS 2" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png", DIRECTV SPORTS 2
 http://38.252.218.1:4000/play/a091/index.m3u8
@@ -125,25 +125,25 @@ http://187.102.208.83:50000/play/a04i/index.m3u8
 
 
 #EXTINF:-1 tvg-id="lch2202" tvg-name="AMERICA TELEVISION HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/888px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png", AMERICA TV HD
-http://187.102.208.83:50000/play/a013/index.m3u8
+http://200.60.124.19:29000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1024px-ATV_logo_2020.png", ATV HD
-https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+http://200.60.124.19:29000/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2201" tvg-name="LATINA HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", Latina HD
-http://187.102.208.83:50000/play/a031/index.m3u8
+http://200.60.124.19:29000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2203" tvg-name="PANAMERICANA TELEVISION HD" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/PANAMERICANA.png", PANAMERICANA HD
-http://187.102.208.83:50000/play/a034/index.m3u8
+http://200.60.124.19:29000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ATV-PLUS.png", ATV+ HD
 http://187.102.208.83:50000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="lch5666" tvg-name="TV PERU HD" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png", TV PERU HD
-http://187.102.208.83:50000/play/a037/index.m3u8
+http://200.60.124.19:29000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-id="lch5614" tvg-name="WILLAX TV HD" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/willax.png", WILLAX TV HD
-http://187.102.208.83:50000/play/a03d/index.m3u8
+http://200.60.124.19:29000/play/a06s/index.m3u8
 
 
 
@@ -151,22 +151,22 @@ http://187.102.208.83:50000/play/a03d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="lch2354" tvg-name="HOME & HEALTH HD" group-title="Documentales & Investigacion" tvg-logo="https://i.pinimg.com/564x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg", HOME & HEALTH HD
-http://187.102.208.83:50000/play/a009/index.m3u8
+http://138.186.20.13:23200/play/a0fc
 
 #EXTINF:-1 tvg-id="lch2344" tvg-name="DISCOVERY HD" group-title="Documentales & Investigacion" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/discoveryhd.png", DISCOVERY HD
-http://187.102.208.83:50000/play/a01m/index.m3u8
+http://138.186.20.13:23200/play/a09b
 
 #EXTINF:-1 tvg-id="lch2343" tvg-name="DISCOVERY THEATER HD" group-title="Documentales & Investigacion" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/theather-discovery.png", DISCOVERY THEATER HD
-http://187.102.208.83:50000/play/a00a/index.m3u8
+http://138.186.20.13:23200/play/a0fd
 
 #EXTINF:-1 tvg-id="lch2327" tvg-name="ID HD - INVESTIGATION DISCOVERY HD" group-title="Documentales & Investigacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png", INVESTIGATION DISCOVERY HD
-http://187.102.208.83:50000/play/a01z/index.m3u8
+http://138.186.20.13:23200/play/a05d
 
 #EXTINF:-1 tvg-id="lch2353" tvg-name="DISCOVERY WORLD HD" group-title="Documentales & Investigacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD HD
-http://187.102.208.83:50000/play/a00s/index.m3u8
+http://138.186.20.13:23200/play/a09c
 
 #EXTINF:-1 tvg-id="lch2275" tvg-name="DISCOVERY TURBO" group-title="Documentales & Investigacion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO HD
-http://190.60.40.37:12500/play/a0ar/index.m3u8
+http://138.186.20.13:23200/play/a0ch
 
 
 
@@ -177,97 +177,91 @@ http://190.60.40.37:12500/play/a0ar/index.m3u8
 
 
 #EXTINF:-1 tvg-id="lch2357" tvg-name="DISNEY CHANNEL HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
-http://187.102.208.83:50000/play/a025/index.m3u8
+http://138.186.20.13:23200/play/a053
 
 #EXTINF:-1 tvg-id="lch2336" tvg-name="CINEMAX HD" group-title="Peliculas & Series" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png", CINEMAX HD
-http://187.102.208.83:50000/play/a01x/index.m3u8
+http://138.186.20.13:23200/play/a05b
 
 #EXTINF:-1 tvg-id="lch2226" tvg-name="WARNER CHANNEL" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/640px-Warner2018LA.png", WARNER CHANNEL HD
-http://200.37.186.109:8000/play/a04e/index.m3u8
+http://168.181.122.234:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2229" tvg-name="UNIVERSAL CHANNEL" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Universal-TV.png", UNIVERSAL CHANNEL HD
-http://187.102.208.83:50000/play/a00c/index.m3u8
+http://138.186.20.13:23200/play/a0ff
 
 #EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/tnt.png", TNT HD
-http://187.102.208.83:50000/play/a027/index.m3u8
+http://138.186.20.13:23200/play/a055
 
 #EXTINF:-1 tvg-id="lch2224" tvg-name="TNT SERIES HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/TNT-SERIES.png", TNT SERIES HD
-http://187.102.208.83:50000/play/a001/index.m3u8
+http://138.186.20.13:23200/play/a0es
 
 #EXTINF:-1 tvg-id="lch6490" tvg-name="HBO" group-title="Peliculas & Series" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg", HBO HD
-http://187.102.208.83:50000/play/a00p/index.m3u8
+http://138.186.20.13:23200/play/a068
 
 #EXTINF:-1 tvg-id="lch6491" tvg-name="HBO 2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-2.png", HBO 2 HD
-http://187.102.208.83:50000/play/a00m/index.m3u8
+http://168.181.122.234:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
-http://187.102.208.83:50000/play/a01p/index.m3u8
+http://168.181.122.234:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6496" tvg-name="HBO XTREME" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-EXTREME.png", HBO EXTREME HD
-http://200.37.186.109:8000/play/a057/index.m3u8
+http://168.181.122.234:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6494" tvg-name="HBO POP" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-POP.png", HBO POP HD
 https://nani.nottie-sux.online/live/Demon/DarkStar666/1.m3u8
 
 #EXTINF:-1 tvg-id="lch2239" tvg-name="SPACE" group-title="Peliculas & Series" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032013/untitled-1_146.png", SPACE HD
-http://187.102.208.83:50000/play/a02n/index.m3u8
+http://168.181.122.234:8000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2249" tvg-name="CINECANAL" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cinecanal.png", CINECANAL HD
-http://190.61.44.34:1010/play/a04p/index.m3u8
+http://138.186.20.13:23200/play/a0ef
 
 #EXTINF:-1 tvg-id="lch2333" tvg-name="PARAMOUNT HD" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png", PARAMOUNT HD
-http://161.132.108.74:50001/play/a018/index.m3u8
+http://138.186.20.13:23200/play/a062
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA HD
 http://138.186.20.13:23200/play/a0cf
 
 #EXTINF:-1 tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TL NOVELAS HD
-http://187.102.208.83:50000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY.ESP" tvg-name="DISNEY ESPAÑA LATINO OP1" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL CLASSIC LAT | ESP
-http://45.5.116.178:8000/play/a04w/index.m3u8
-
-#EXTINF:-1 tvg-id="lch2357" tvg-name="DISNEY CHANNEL HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL 2 HD
-http://181.78.22.251:8090/play/a00f/index.m3u8
+http://181.78.8.90:16123/play/ch45
 
 #EXTINF:-1 tvg-id="lch2359" tvg-name="MTV HD" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png", MTV HD
-http://200.37.186.109:8000/play/a04z/index.m3u8
+http://138.186.20.13:23200/play/a072
 
 #EXTINF:-1 tvg-id="lch5605" tvg-name="NICKELODEON" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png", NICKELODEON HD
-http://200.37.186.109:8000/play/a02y/index.m3u8
+http://138.186.20.13:23200/play/a04w
 
 #EXTINF:-1 tvg-id="lch2188" tvg-name="Cartoon Network HD" group-title="Peliculas & Series" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg", CARTOON NETWORK HD
-http://147.135.124.6:26649/play/a04j/index.m3u8
+http://138.186.20.13:23200/play/a061
 
 #EXTINF:-1 tvg-id="lch2328" tvg-name="COMEDY CENTRAL HD" group-title="Peliculas & Series" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg", COMEDY CENTRAL HD
-http://200.37.186.109:8000/play/a062/index.m3u8
+http://138.186.20.13:23200/play/a05c
 
 #EXTINF:-1 tvg-id="lch2325" tvg-name="FX HD" group-title="Peliculas & Series" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg", FX HD
-http://200.37.186.109:8000/play/a05m/index.m3u8
+http://138.186.20.13:23200/play/a0fk
 
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" group-title="Peliculas & Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png", GOLDEN PREMIER HD
-http://204.157.251.250:8000/play/a06g/index.m3u8
+http://138.186.20.13:23200/play/a06k
 
 #EXTINF:-1 tvg-id="1#STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL HD
-http://200.37.186.109:8000/play/a08l/index.m3u8
+http://138.186.20.13:23200/play/a063
 
 #EXTINF:-1 tvg-id="pe#fox" tvg-name="Star Channel" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png", STAR CHANNEL HD
-http://170.81.241.222:31589/play/a04n/index.m3u8
+http://138.186.20.13:23200/play/a04v
 
 #EXTINF:-1 tvg-id="lch2225" tvg-name="SONY" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY CHANNEL HD
-http://187.102.208.83:50000/play/a02k/index.m3u8
+http://138.186.20.13:23200/play/a0ee
 
 #EXTINF:-1 tvg-id="lch6313" tvg-name="ADULT SWIM" group-title="Peliculas & Series" tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg", ADULT SWIN HD
-http://187.102.208.83:50000/play/a020/index.m3u8
+http://200.60.124.19:29000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere East" group-title="Peliculas & Series" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png", UNIVERSAL PREMIERE HD
 http://204.157.251.250:8001/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2228" tvg-name="AXN" group-title="Peliculas & Series" tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png", AXN HD
-http://187.102.208.83:50000/play/a02m/index.m3u8
+http://168.181.122.234:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="Golden Premier 2" group-title="Peliculas & Series" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png", GOLDEN PREMIER 2 HD
-http://187.102.208.83:50000/play/a055/index.m3u8
+http://138.186.20.13:23200/play/a0ds
 
 
 
