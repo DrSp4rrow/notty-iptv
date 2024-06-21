@@ -268,38 +268,5 @@ http://138.186.20.13:23200/play/a0ds
 
 
 
-#EXTINF:-1 tvg-id="Chavo.Original" tvg-name="CHAVO DEL OCHO" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/24-7-chavo8Original.png", 24/7 CHAVO DEL OCHO ORIGINAL HD
-https://nani.nottie-sux.online/live/Demon/DarkStar666/2.m3u8
-
-#EXTINF:-1 tvg-id="cantinflas.mx" tvg-name="CANTINFLAS" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cantinflas.png", 24/7 CANTINFLAS HD
-https://nani.nottie-sux.online/live/Demon/DarkStar666/3.m3u8
-
-#EXTINF:-1 tvg-id="iCarly.full" tvg-name="SERIE ICARLY" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/iCarly.png", 24/7 iCarly HD
-
-
-#EXTINF:-1 tvg-id="CORAJE.PERRO" tvg-name="CORAJE EL PERRO COBARDE" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/coraje-perro.png", 24/7 CORAJE EL PERRO COBARDE SD
-https://nani.nottie-sux.online/live/Demon/DarkStar666/4.m3u8
-
-#EXTINF:-1 tvg-id="movies.marvel" tvg-name="MARVEL MOVIES" group-title="24/7" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Marvel-Studios-logo.png", 24/7 PELICULAS MARVEL HD
-https://nani.nottie-sux.online/live/Demon/DarkStar666/5.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="TGD.S07E01" tvg-name="THE GOOD DOCTOR S07E01" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 1
-https://archive.org/download/the-gd/TGD_S07S01.mkv
-
-#EXTINF:-1 tvg-id="TGD.S07E02" tvg-name="THE GOOD DOCTOR S07E02" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 2
-https://archive.org/download/tgd-2-3/TGD_S07S02.mkv
-
-#EXTINF:-1 tvg-id="TGD.S07E03" tvg-name="THE GOOD DOCTOR S07E03" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 3
-https://archive.org/download/tgd-2-3/TGD_S07S03.mkv
-
-#EXTINF:-1 tvg-id="TGD.S07E04" tvg-name="THE GOOD DOCTOR S07E04" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 4
-https://archive.org/download/tgd-s-07-e-04-06/TGD_S07E04.mkv
-
-#EXTINF:-1 tvg-id="TGD.S07E05" tvg-name="THE GOOD DOCTOR S07E05" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 5
-https://archive.org/download/tgd-s-07-e-04-06/TGD_S07E05.mkv
-
-#EXTINF:-1 tvg-id="TGD.S07E06" tvg-name="THE GOOD DOCTOR S07E06" group-title="THE GOOD DOCTOR" tvg-logo="", TGD SEASON 7 EPISODE 6
-https://archive.org/download/tgd-s-07-e-04-06/TGD_S07E06.mkv
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="Azteca Guatemala" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/963px-Azteca_Guate_2017.png", TV Azteca Gua HD 
+https://tvazteca-os1.us-mia-1.linodeobjects.com/tvazteca-os1/hls/0/stream.m3u8
