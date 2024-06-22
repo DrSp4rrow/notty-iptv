@@ -40,10 +40,10 @@ http://200.60.124.19:29000/play/a06p/index.m3u8
 http://45.232.176.17:8000/play/a02g
 
 #EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS
-http://zfpgnap.mexamo.xyz/live/7921751389/6097373662/32058.m3u8
+http://181.78.106.127:9000/play/ca026/index.m3u8
 
 #EXTINF:-1 tvg-id="DTV.SPORTS2" tvg-name="DIRECTV SPORTS 2" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png", DIRECTV SPORTS 2
-http://38.252.218.1:4000/play/a091/index.m3u8
+
 
 
 
@@ -270,3 +270,9 @@ http://138.186.20.13:23200/play/a0ds
 
 #EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="Azteca Guatemala" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/963px-Azteca_Guate_2017.png", TV Azteca Gua HD 
 https://tvazteca-os1.us-mia-1.linodeobjects.com/tvazteca-os1/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="AMERICA & EURO CUP" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/ESPN_Logo_Design_History_Evolution_0_1024x1024.jpg", ESPN HD (HON)
+http://168.181.122.234:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS
+http://181.78.106.127:9000/play/ca026/index.m3u8
