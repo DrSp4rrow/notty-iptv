@@ -265,11 +265,11 @@ http://138.186.20.13:23200/play/a0ds
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="AMERICA & EURO CUP" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/ESPN_Logo_Design_History_Evolution_0_1024x1024.jpg", ESPN HD (HON)
 http://168.181.122.234:8000/play/a042/index.m3u8
 
-#EXTINF:-1 tvg-id="asdad" tvg-name="AZTECA 7 MX" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7 HD 
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7 HD 
 http://181.78.106.127:9000/play/ca023/index.m3u8
 
 #EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="AMERICA & EURO CUP" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS HD
 http://181.78.106.127:9000/play/ca026/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.MX" tvg-name="TUDN MX" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", TV Azteca Gu
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN MX
 http://181.78.106.127:9000/play/ca025/index.m3u8
