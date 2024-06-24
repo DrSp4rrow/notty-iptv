@@ -272,5 +272,11 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN MX
 http://181.78.106.127:9000/play/ca025/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.latam" tvg-name="TUDN Latino" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN Latam
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN Latam
 http://fortv.cc:8080/0927216/5292163/21644
+
+#EXTINF:-1 tvg-id="univision_latinoamerica" tvg-name="Univision Latinoamérica" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png", Univisión US (ESP)
+http://fortv.cc:8080//live/0927216/5292163/15336.m3u8
+
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="6 de Costa Rica" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/800px-Canal6CR.png", Canal 6 (CR)
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
