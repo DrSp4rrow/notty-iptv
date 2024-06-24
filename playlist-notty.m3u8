@@ -46,6 +46,7 @@ http://45.232.176.17:8000/play/a02g
 
 
 
+
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-name="SSC 1 HD" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/SSC1.png", SSC SPORT 1 HD OP1 | ARABIA
 http://zfpgnap.mexamo.xyz//live/7921751389/6097373662/400551970.m3u8
 
@@ -66,9 +67,6 @@ http://yackcub.mexamo.xyz//live/3338826713/8323116234/112546.m3u8
 
 #EXTINF:-1 tvg-id="948843" tvg-name="SSC Extra 2 HD" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/SSC-EXTRA2.png", SSC SPORT EXTRA 2 HD OP1 | ARABIA
 http://zfpgnap.mexamo.xyz//live/7921751389/6097373662/400551964.m3u8
-
-#EXTINF:-1 tvg-id="955107" tvg-name="SSC News" group-title="Deportes Extranjeros" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/NEWS0/original/NEWS0.png", SSC News HD OP1 | ARABIA
-
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV HD OP1 | US
 http://zfpgnap.mexamo.xyz//live/7921751389/6097373662/378820.m3u8
