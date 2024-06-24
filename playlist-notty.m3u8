@@ -271,3 +271,6 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN MX
 http://181.78.106.127:9000/play/ca025/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.latam" tvg-name="TUDN Latino" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN Latam
+http://fortv.cc:8080/0927216/5292163/21644
