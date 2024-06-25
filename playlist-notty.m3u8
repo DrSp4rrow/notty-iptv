@@ -292,3 +292,8 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/117154.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png", La 2 ESPAÑA
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/117156.m3u8
+
+#EXTINF:-1 tvg-id="ASD2" tvg-name="ASDASD12" group-title="AMERICA & EURO CUP" tvg-logo="", DINAMARCA VS SERBIA
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/412280.m3u8
+
+
