@@ -210,7 +210,7 @@ http://190.119.178.46:8000/play/a03b/index.m3u8
 http://138.186.20.13:23200/play/a062
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA HD
-http://138.186.20.13:23200/play/a0cf
+http://200.115.96.66:4000/play/a0ho/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TL NOVELAS HD
 http://181.78.8.90:16123/play/ch45
@@ -270,7 +270,7 @@ http://181.78.106.127:9000/play/ca023/index.m3u8
 http://181.78.106.127:9000/play/ca026/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN MX
-http://181.78.106.127:9000/play/ca025/index.m3u8
+http://200.115.96.66:4000/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN Latam
 http://fortv.cc:8080/0927216/5292163/21644
