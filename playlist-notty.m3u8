@@ -28,7 +28,7 @@ http://138.186.20.13:23200/play/a0fi
 http://138.186.20.13:23200/play/a0gb
 
 #EXTINF:-1 tvg-id="LIGA.MAX" tvg-name="LIGA 1 MAX" group-title="Deportes" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png", LIGA 1 MAX | PE
-http://187.102.208.83:50000/play/a02c/index.m3u8
+http://177.53.155.236:8000/play/a0bt/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2319" tvg-name="GOLPERU HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/golperu.png", GOL PERU | PE
 http://200.60.124.19:29000/play/a00b/index.m3u8
