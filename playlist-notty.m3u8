@@ -260,8 +260,8 @@ http://138.186.20.13:23200/play/a0ds
 
 
 
-#EXTINF:-1 tvg-id="CARACOLTV" tvg-name="CARACOLTV" group-title="ELIMINATORIAS PARA MUNDIAL" tvg-logo="", OP1 ECUADOR VS VENEZUELA 21-03
+#EXTINF:-1 tvg-id="CARACOLTV" tvg-name="CARACOLTV" group-title="ELIMINATORIAS PARA MUNDIAL" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/refs/heads/main/eventos/ecu-ven.jpg", OP1 ECUADOR VS VENEZUELA 21-03
 http://181.78.74.69:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ELIMINATORIAS PARA MUNDIAL" tvg-logo="", OP1 URUGUAY VS ARGENTINA 21-03
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ELIMINATORIAS PARA MUNDIAL" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/refs/heads/main/eventos/uru-arg.jpg", OP1 URUGUAY VS ARGENTINA 21-03
 http://181.209.95.29:8000/play/a06c/index.m3u8
