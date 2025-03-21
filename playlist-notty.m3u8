@@ -260,54 +260,7 @@ http://138.186.20.13:23200/play/a0ds
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="AMERICA & EURO CUP" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/ESPN_Logo_Design_History_Evolution_0_1024x1024.jpg", ESPN HD (HON)
-http://168.181.122.234:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="CARACOLTV" tvg-name="CARACOLTV" group-title="ELIMINATORIAS PARA MUNDIAL" tvg-logo="", OP1 ECUADOR VS VENEZUELA 21-03
+http://181.78.74.69:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7 HD 
-http://181.78.106.127:9000/play/ca023/index.m3u8
-
-#EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="AMERICA & EURO CUP" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS HD
-http://181.78.106.127:9000/play/ca026/index.m3u8
-
-#EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="AMERICA & EURO CUP" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS ARG HD OP2
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/4668.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN MX
-http://200.115.96.66:4000/play/a0dn/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN Latam
-http://fortv.cc:8080/0927216/5292163/21644
-
-#EXTINF:-1 tvg-id="us#69037946/univision-network-hdtv" tvg-name="Univision Network HDTV" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png", Univisión US (ESP)
-http://fortv.cc:8080//live/0927216/5292163/15336.m3u8
-
-#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="6 de Costa Rica" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/800px-Canal6CR.png", Canal 6 (CR)
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8w
-
-#EXTINF:-1 tvg-id="winsportplus.co" tvg-name="Winsportplus" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WinSport Plus
-http://181.78.6.106:45000/play/a014
-
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png", La 1 ESPAÑA
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/117154.m3u8
-
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png", La 2 ESPAÑA
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/117156.m3u8
-
-#EXTINF:-1 tvg-id="ASD2" tvg-name="ASDASD12" group-title="AMERICA & EURO CUP" tvg-logo="", DINAMARCA VS SERBIA
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/412280.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="RMvsATM1" tvg-name="RMvsATM" group-title="UEFA Champions League" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.jpg", REAL MADRID VS ATLETICO MADRID
-http://181.78.74.69:8000/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="ARvsPSV1" tvg-name="ARvsPSV" group-title="UEFA Champions League" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.jpg", ARSENAL VS PSV
-http://181.78.74.69:8000/play/a05x/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="CPRvsMEL1" tvg-name="CPRvsMEL" group-title="Copa libertadores" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png", CERRO PORTEÑO VS MELGAR
-http://181.78.74.69:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ELIMINATORIAS PARA MUNDIAL" tvg-logo="", OP1 URUGUAY VS ARGENTINA 21-03
